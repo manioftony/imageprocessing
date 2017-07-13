@@ -1,0 +1,32 @@
+1. What is the meaning of RGB color?
+   its refers to system representing the colors to be used on a computer display 
+
+
+Secondary colors?
+
+2. The decondary colors rgb yellow,magenta,yellow
+    The secondary colors of RGB (cyan,magenta,yellow)
+
+    Red and green combine to make yellow,
+    green and blue make cyan,
+    blue and red make magenta,
+    red, green, and blue in full intensity makes white.
+
+
+
+
+
+3. Region of interest?
+  Roi  are samples within an data set identified for a particular purpose
+
+
+4. Examples of regions of interest?
+
+    1D dataset: a time or frequency interval on a waveform
+    2D dataset: the boundaries of an object on an image
+    3D dataset: the contours or surfaces outlining an object (sometimes known as the Volume of Interest (VOI)) in a volume
+    4D dataset: the outline of an object at or during a particular time interval in a time-volume
+
+
+Image properties include number of rows, columns and channels, type of image data, number of pixels etc.
+
